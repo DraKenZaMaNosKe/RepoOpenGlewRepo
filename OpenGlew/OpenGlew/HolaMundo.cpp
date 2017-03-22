@@ -1,4 +1,4 @@
-//Jeff Chastine
+//Lalo lalona 22 03 2017 año
 #include <Windows.h>
 #include <GL\glew.h>
 #include <GL\freeglut.h>
