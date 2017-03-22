@@ -1,0 +1,4 @@
+﻿  HolaMundo.cpp
+c:\users\lalilini\documents\visual studio 2015\projects\openglew\openglew\holamundo.cpp(19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  OpenGlew.vcxproj -> C:\Users\lalilini\Documents\Visual Studio 2015\Projects\OpenGlew\Debug\OpenGlew.exe
+  OpenGlew.vcxproj -> C:\Users\lalilini\Documents\Visual Studio 2015\Projects\OpenGlew\Debug\OpenGlew.pdb (Partial PDB)
