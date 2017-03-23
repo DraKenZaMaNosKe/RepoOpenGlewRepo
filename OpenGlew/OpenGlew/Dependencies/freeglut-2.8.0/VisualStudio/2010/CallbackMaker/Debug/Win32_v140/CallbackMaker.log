@@ -1,0 +1,4 @@
+﻿  CallbackMaker.c
+CallbackMaker.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  CallbackMaker.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\CallbackMaker\..\..\..\progs\demos\x86\debug_dll\CallbackMaker.exe
+  CallbackMaker.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\CallbackMaker.pdb (Full PDB)

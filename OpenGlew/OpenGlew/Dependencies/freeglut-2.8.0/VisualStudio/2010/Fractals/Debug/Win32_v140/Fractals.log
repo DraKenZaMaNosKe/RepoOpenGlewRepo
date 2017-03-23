@@ -1,0 +1,4 @@
+﻿  fractals.c
+fractals.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Fractals.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\Fractals\..\..\..\progs\demos\x86\debug_dll\Fractals.exe
+  Fractals.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\Fractals.pdb (Full PDB)

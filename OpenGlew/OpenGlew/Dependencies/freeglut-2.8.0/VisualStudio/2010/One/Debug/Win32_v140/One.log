@@ -1,0 +1,4 @@
+﻿  one.c
+one.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  One.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\One\..\..\..\progs\demos\x86\debug_dll\One.exe
+  One.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\One.pdb (Full PDB)

@@ -1,0 +1,34 @@
+﻿  freeglut_window.c
+  fgSetupPixelFormat(): there is still some work to do here!
+  freeglut_videoresize.c
+  freeglut_teapot.c
+  freeglut_structure.c
+  freeglut_stroke_roman.c
+  freeglut_stroke_mono_roman.c
+  freeglut_state.c
+  freeglut_spaceball.c
+  freeglut_overlay.c
+  freeglut_misc.c
+  freeglut_menu.c
+  freeglut_main.c
+  freeglut_joystick.c
+  freeglut_input_devices.c
+  freeglut_init.c
+  freeglut_glutfont_definitions.c
+  freeglut_geometry.c
+  freeglut_gamemode.c
+  freeglut_font_data.c
+  freeglut_font.c
+  Generating Code...
+  Compiling...
+  freeglut_ext.c
+  freeglut_display.c
+  freeglut_cursor.c
+  freeglut_callbacks.c
+  Generating Code...
+  LINK : ..\..\lib\x86\Debug\freeglut.exe not found or not built by the last incremental link; performing full link
+freeglut_callbacks.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library ..\..\lib\x86\Debug\freeglut.lib and object ..\..\lib\x86\Debug\freeglut.exp
+freeglut.exp : warning LNK4070: /OUT:freeglut.dll directive in .EXP differs from output filename '..\..\lib\x86\Debug\freeglut.exe'; ignoring directive
+  freeglut.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\..\..\lib\x86\Debug\freeglut.exe
+  freeglut.vcxproj -> ..\..\lib\x86\Debug\freeglut.pdb (Full PDB)

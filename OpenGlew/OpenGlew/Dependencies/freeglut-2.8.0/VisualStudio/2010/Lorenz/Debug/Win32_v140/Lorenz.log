@@ -1,0 +1,4 @@
+﻿  lorenz.c
+lorenz.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lorenz.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\Lorenz\..\..\..\progs\demos\x86\debug_dll\Lorenz.exe
+  Lorenz.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\Lorenz.pdb (Full PDB)
