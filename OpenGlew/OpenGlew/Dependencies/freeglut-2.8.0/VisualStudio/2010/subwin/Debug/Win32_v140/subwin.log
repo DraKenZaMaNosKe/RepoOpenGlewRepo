@@ -1,0 +1,4 @@
+﻿  subwin.c
+subwin.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  subwin.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\subwin\..\..\..\progs\demos\x86\debug_dll\subwin.exe
+  subwin.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\subwin.pdb (Full PDB)

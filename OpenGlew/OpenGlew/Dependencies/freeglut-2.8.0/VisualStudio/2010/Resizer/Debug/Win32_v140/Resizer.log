@@ -1,0 +1,4 @@
+﻿  Resizer.cpp
+Resizer.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Resizer.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\Resizer\..\..\..\progs\demos\x86\debug_dll\Resizer.exe
+  Resizer.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\Resizer.pdb (Full PDB)

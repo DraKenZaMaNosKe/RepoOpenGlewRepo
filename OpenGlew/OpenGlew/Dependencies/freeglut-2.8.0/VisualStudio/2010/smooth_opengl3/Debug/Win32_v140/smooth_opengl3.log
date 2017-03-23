@@ -1,0 +1,4 @@
+﻿  smooth_opengl3.c
+smooth_opengl3.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  smooth_opengl3.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\smooth_opengl3\..\..\..\progs\demos\x86\debug_dll\smooth_opengl3.exe
+  smooth_opengl3.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\smooth_opengl3.pdb (Full PDB)

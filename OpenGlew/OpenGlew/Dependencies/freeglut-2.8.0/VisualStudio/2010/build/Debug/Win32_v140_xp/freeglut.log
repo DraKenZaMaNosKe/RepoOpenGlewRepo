@@ -1,0 +1,53 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Platforms\Win32\PlatformToolsets\v140_xp\Toolset.targets(36,5): warning MSB8003: Could not find WindowsSdkDir_71A variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(366,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+  freeglut_window.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_videoresize.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_teapot.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_structure.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_stroke_roman.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_stroke_mono_roman.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_state.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_spaceball.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_overlay.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_misc.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_menu.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_main.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_joystick.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_input_devices.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_init.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_glutfont_definitions.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_geometry.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_gamemode.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_font_data.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_font.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  Generating Code...
+  Compiling...
+  freeglut_ext.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_display.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_cursor.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  freeglut_callbacks.c
+c:\users\lalilini\desktop\freeglut-2.8.0\include\gl\freeglut_std.h(63): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  Generating Code...

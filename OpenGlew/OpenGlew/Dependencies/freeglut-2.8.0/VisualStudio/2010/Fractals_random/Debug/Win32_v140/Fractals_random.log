@@ -1,0 +1,4 @@
+﻿  fractals_random.c
+fractals_random.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Fractals_random.vcxproj -> C:\Users\lalilini\Desktop\freeglut-2.8.0\VisualStudio\2010\Fractals_random\..\..\..\progs\demos\x86\debug_dll\Fractals_random.exe
+  Fractals_random.vcxproj -> ..\..\..\progs\demos\x86\debug_dll\Fractals_random.pdb (Full PDB)
